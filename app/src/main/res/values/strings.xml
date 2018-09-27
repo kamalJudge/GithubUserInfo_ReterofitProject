@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubUserInfo_ReterofitProject</string>
+    <string name="title_activity_repository">RepositoryActivity</string>
+</resources>
